@@ -1,0 +1,14 @@
+c:\users\meshmi\source\repos\luckynumber\luckynumber\bin\Debug\luckynumber.exe.config
+c:\users\meshmi\source\repos\luckynumber\luckynumber\bin\Debug\luckynumber.exe.manifest
+c:\users\meshmi\source\repos\luckynumber\luckynumber\bin\Debug\luckynumber.application
+c:\users\meshmi\source\repos\luckynumber\luckynumber\bin\Debug\luckynumber.exe
+c:\users\meshmi\source\repos\luckynumber\luckynumber\bin\Debug\luckynumber.pdb
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.Form1.resources
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.Properties.Resources.resources
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.csproj.GenerateResource.cache
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.csproj.CoreCompileInputs.cache
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.exe.manifest
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.application
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.exe
+c:\users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.pdb
+C:\Users\meshmi\source\repos\luckynumber\luckynumber\obj\Debug\luckynumber.csprojAssemblyReference.cache
